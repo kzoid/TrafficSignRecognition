@@ -73,10 +73,8 @@ int main(int argc, char **argv) {
         std::vector<TrafficSign> signs;
         signs.push_back(TrafficSign("PARE", "svm_detectors/pare_detector.svm",
                                     rgb_pixel(255, 0, 0)));
-        signs.push_back(TrafficSign("LOMBADA", "svm_detectors/lombada_detector.svm",
+        signs.push_back(TrafficSign("PROIBIDO ESTACIONAR", "svm_detectors/proibido_estacionar_detector.svm",
                                     rgb_pixel(255, 122, 0)));
-        signs.push_back(TrafficSign("PEDESTRE", "svm_detectors/pedestre_detector.svm",
-                                    rgb_pixel(255, 255, 0)));
 
         std::vector<object_detector<image_scanner_type> > detectors;
 
