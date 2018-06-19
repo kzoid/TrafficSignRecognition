@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+    <name>imglab dataset</name>
+    <comment>Created by imglab tool.</comment>
+    <images>
+        <image file='train/proibido_estacionar_train_01.jpg'>
+            <box top='132' left='418' width='153' height='150'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_02.jpg'>
+            <box top='40' left='170' width='216' height='214'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_03.jpg'>
+            <box top='110' left='123' width='157' height='156'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_04.jpg'>
+            <box top='31' left='603' width='160' height='161'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_05.jpg'>
+            <box top='17' left='469' width='293' height='295'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_06.jpg'>
+            <box top='-4' left='99' width='85' height='88'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_07.jpeg'>
+            <box top='14' left='127' width='84' height='83'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_08.jpeg'>
+            <box top='132' left='311' width='119' height='127'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_10.jpg'>
+            <box top='107' left='348' width='58' height='57'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_11.jpg'>
+            <box top='33' left='116' width='50' height='51'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_12.jpg'>
+            <box top='39' left='251' width='102' height='89'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+            <box top='48' left='920' width='70' height='64'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+            <box top='141' left='846' width='64' height='53'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_13.jpg'>
+            <box top='19' left='71' width='50' height='49'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_14.jpeg'>
+            <box top='37' left='60' width='78' height='65'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_15.jpeg'>
+            <box top='114' left='139' width='62' height='51'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_16.jpeg'>
+            <box top='178' left='506' width='41' height='40'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_17.jpeg'>
+            <box top='148' left='260' width='82' height='70'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_18.jpeg'>
+            <box top='127' left='409' width='66' height='67'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_19.jpg'>
+            <box top='31' left='29' width='364' height='356'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_20.jpg'>
+            <box top='28' left='164' width='38' height='37'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_21.jpeg'>
+            <box top='179' left='539' width='109' height='82'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_22.jpeg'>
+            <box top='100' left='239' width='61' height='58'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_23.jpeg'>
+            <box top='120' left='332' width='38' height='33'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_24.jpeg'>
+            <box top='112' left='139' width='32' height='31'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_25.jpeg'>
+            <box top='123' left='210' width='53' height='57'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_26.jpeg'>
+            <box top='207' left='107' width='48' height='46'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_27.jpeg'>
+            <box top='142' left='692' width='59' height='51'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_28.jpeg'>
+            <box top='91' left='407' width='86' height='70'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_29.jpeg'>
+            <box top='53' left='224' width='39' height='35'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+        <image file='train/proibido_estacionar_train_30.jpeg'>
+            <box top='44' left='77' width='46' height='39'>
+                <label>PROIBIDO_ESTACIONAR</label>
+            </box>
+        </image>
+    </images>
+</dataset>

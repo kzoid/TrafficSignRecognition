@@ -36,12 +36,6 @@ int main(int argc, char** argv) {
     parser.add_option("threads", "Use <arg> threads for training (default: 4).",1);
     parser.add_option("eps", "Set SVM training epsilon to <arg> (default: 0.01).", 1);
     parser.add_option("norm", "If set, the nuclear norm regularization strength will be <arg> (default: disabled).", 1);
-
-    // TODO: Variable window size
-#if 0
-    parser.add_option("w","Set window size to <arg1> x <arg2> pixels (default: 80x80.", 2);
-#endif
-
     parser.parse(argc, argv);
 
     // Can't give an option more than once

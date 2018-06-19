@@ -1,6 +1,6 @@
 #!/bin/bash
 # Build TrafficSignRecognition
 
-mkdir build
+rm -R build; mkdir build
 cd build; cmake .. && cmake --build .
  
